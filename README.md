@@ -57,6 +57,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hippopailler/hippopailler/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/hippopailler/hippopailler/blob/main/snake" alt="Snake animation" />
 
 ###
