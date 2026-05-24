@@ -1,8 +1,34 @@
-<h2 align="left">Hi 👋! My name is Hippolyte Pailler and I'm a computer science engineering student, from France</h2>
+<h2 align="left">Hi 👋! My name is Hippolyte Pailler and I'm a computer science engineering student, from France. I am a student from Ensta Paris but starting a <h2 align="left">Hi 👋! My name is Hippolyte Pailler</h2>
 
-###
+<p align="left">
+🎓 French computer science engineering student at ENSTA Paris, starting a double degree in Computer Engineering at Polytechnique Montréal in September. <br><br>
 
-<p align="left">🎓 I'm a French computer science student passionate about software development, algorithms, and creative tech projects.  <br>🔬 Currently working on innovative projects in oncology and IA for lung cancers.  <br>🎮 I'm also working on a company mission to develop a Unity-based game aimed at helping employees acquire new skills more effectively.<br>🔧 I enjoy coding in languages like C,  C++, Python, and working with tools such as Git, Blender, and Unity.  <br>🚀 Always learning and exploring new ideas in AI, graphics, and interactive systems.<br><br><br>💡 Current Projects :<br><br>- 🐢 Member of **Team OTARIE** in the **Urgensea Challenge**, designing a floating autonomous device for river waste collection.<br>- 🌊 Modeling realistic physics-based animations in Unity and Blender.<br>- 🔤 Exploring programming language theory and building small interpreters in **OCaml**.</p>
+💼 Currently finishing a gap-year internship at Crossbeam as a Revenue Operations (RevOps) intern, working on data analysis, business operations, and process optimization. <br><br>
+
+🔬 Previously worked in AI research at AI-On-Lab (Politecnico di Milano), focusing on multimodal learning and histopathology models for lung cancer analysis. <br><br>
+
+🎮 Passionate about creative development, interactive systems, and visual projects using Unity, Blender, and Python. I enjoy building tools, simulations, games, and data-driven applications. <br><br>
+
+🚀 Interested in AI, data science, software engineering, computer graphics, and game development.
+</p>
+
+---
+
+### 💡 Current Interests
+
+- Artificial Intelligence & Data Science  
+- Game Development & Interactive Experiences  
+- Computer Graphics & Simulation  
+- Software Engineering  
+- Creative Coding & Visual Projects  
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, C/C++, SQL, JavaScript, C#, OCaml  
+**Frameworks & Tools:** Unity, Blender, Git, PyTorch, Pandas, NumPy, Scikit-learn  
+**Other:** Linux, Data Visualization, Machine Learning, Computer Vision
 
 ###
 
