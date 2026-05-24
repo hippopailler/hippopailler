@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hippolyte Pailler and I'm a computer science engineering student, from France. I am a student from Ensta Paris but starting a <h2 align="left">Hi 👋! My name is Hippolyte Pailler</h2>
+<h2 align="left">Hi 👋! My name is Hippolyte Pailler</h2>
 
 <p align="left">
 🎓 French computer science engineering student at ENSTA Paris, starting a double degree in Computer Engineering at Polytechnique Montréal in September. <br><br>
