@@ -5,7 +5,7 @@
 
 💼 Currently finishing a gap-year internship at Crossbeam as a Revenue Operations (RevOps) intern, working on data analysis, business operations, and process optimization. <br><br>
 
-🔬 Previously worked in AI research at AI-On-Lab (Politecnico di Milano), focusing on multimodal learning and histopathology models for lung cancer analysis. <br><br>
+🔬 Previously worked in AI research at AI-On-Lab (Politecnico di Milano), focusing on multimodal learning and histopathology models for lung cancer analysis. And Data Science at Ubisoft to create AI models to help to the studios have a better forecasting for their release. <br><br>
 
 🎮 Passionate about creative development, interactive systems, and visual projects using Unity, Blender, and Python. I enjoy building tools, simulations, games, and data-driven applications. <br><br>
 
