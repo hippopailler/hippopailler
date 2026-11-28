@@ -1,36 +1,29 @@
-<h2 align="left">Hi 👋! My name is Hippolyte Pailler</h2>
+<h2 align="left">Hi 👋! My name is Hippolyte Pailler</h2> <p align="left"> 🎓 French engineering student from ENSTA Paris (Institut Polytechnique de Paris), currently doing a double degree in Computer Engineering at Polytechnique Montréal (professional master's track). <br><br>
 
-<p align="left">
-🎓 French computer science engineering student at ENSTA Paris, starting a double degree in Computer Engineering at Polytechnique Montréal in September. <br><br>
+📚 This year I'm diving into Machine Learning, Natural Language Processing, game AI with Unreal Engine (C++), intelligent agents, and 3D reconstruction from medical images. <br><br>
 
-💼 Currently finishing a gap-year internship at Crossbeam as a Revenue Operations (RevOps) intern, working on data analysis, business operations, and process optimization. <br><br>
+💼 Before Montréal, I took a gap year in industry: Data Science at Ubisoft, building forecasting models to anticipate production delays for the studios, then Data Science and Revenue Operations at Crossbeam, working on data analysis, business operations and process optimization. <br><br>
 
-🔬 Previously worked in AI research at AI-On-Lab (Politecnico di Milano), focusing on multimodal learning and histopathology models for lung cancer analysis and Data Science at Ubisoft to create AI models to help to the studios have a better forecasting for their release. <br><br>
+🔬 I also worked in AI research at AI-On-Lab (Politecnico di Milano) on multimodal learning and histopathology models for lung cancer analysis. <br><br>
 
-🎮 Passionate about creative development, interactive systems, and visual projects using Unity, Blender, and Python. I enjoy building tools, simulations, games, and data-driven applications. <br><br>
+🎮 On the side, I build things I find fun: a 2D pixel-art game in Unity starring a cat, a "second brain" desktop app for my studies, and some early experiments with EEG / brain-computer interfaces. <br><br>
 
-🚀 Interested in AI, data science, software engineering, computer graphics, and game development.
+🚀 Interested in AI, game development, computer graphics, interactive systems and software engineering.
+
 </p>
+💡 Current Interests
+Machine Learning & NLP
+Game Development & Game AI
+Computer Graphics, 3D & Simulation
+Brain-Computer Interfaces
+Software Engineering & Productivity Tools
+🛠️ Tech Stack
 
----
-
-### 💡 Current Interests
-
-- Artificial Intelligence & Data Science  
-- Game Development & Interactive Experiences  
-- Computer Graphics & Simulation  
-- Software Engineering  
-- Creative Coding & Visual Projects  
-
----
-
-### 🛠️ Tech Stack
-
-**Languages:** Python, C/C++, SQL, JavaScript, C#, OCaml  
-**Frameworks & Tools:** Unity, Blender, Git, PyTorch, Pandas, NumPy, Scikit-learn  
-**Other:** Linux, Data Visualization, Machine Learning, Computer Vision
-
-###
+Languages: Python, C/C++, C#, SQL, JavaScript, OCaml
+Game & 3D: Unity, Unreal Engine, Blender
+AI & Data: PyTorch, Scikit-learn, Pandas, NumPy
+Tools: Git, Linux
+Fields: Machine Learning, NLP, Computer Vision, Data Visualization
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hippopailler&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
